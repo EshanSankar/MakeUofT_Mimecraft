@@ -1,4 +1,5 @@
-# Mimecraft  
+# Mimecraft
+Collaboration between Eshan Sankar (@EshanSankar), Joshua Choi (@choijoshua) and Tae Kim (@poungpoung2). Submitted under the "Video Games" category for MakeUofT 2025.
 
 # Instructions
 Load imu.ino onto an Arduino, run thread.py, open Minecraft in fullscreen, and enjoy!
